@@ -1,0 +1,39 @@
+{
+  "name": "jfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node player.js"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ],
+  "author": "ItzSala",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "opusscript": "^0.0.4",
+    "simple-youtube-api": "^5.0.0",
+    "ytdl-core": "^0.18.3"
+  },
+  "engines": {
+    "node": "8.9.1"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+   "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-aqua": "^1.0.0"
+  },
+  "eslintConfig": {
+    "extends": "aqua",
+    "rules": {
+      "no-console": 0
+    }
+  }
+}
