@@ -1,32 +1,25 @@
 {
-  "name": "jfs",
+  "name": "jfg",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple discord bot",
   "main": "player.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node player.js"
+    "test": ""
   },
   "keywords": [
-    "node",
-    "glitch",
-    "express"
+    "discord",
+    "bot",
+    "discordbot"
   ],
-  "author": "ItzSala",
+  "author": "ItzSala_",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^11.2.1",
-    "opusscript": "^0.0.4",
-    "simple-youtube-api": "^5.0.0",
-    "ytdl-core": "^0.18.3"
+    "discord.js": "^11.1.0",
+    "opusscript": "0.0.3",
+    "simple-youtube-api": "^3.0.0",
+    "ytdl-core": "^0.16.0"
   },
-  "engines": {
-    "node": "8.9.1"
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/welcome-project"
-  },
-   "devDependencies": {
+  "devDependencies": {
     "eslint": "^4.0.0",
     "eslint-config-aqua": "^1.0.0"
   },
