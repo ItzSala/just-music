@@ -18,7 +18,9 @@
     "discord.js": "^11.2.1",
     "opusscript": "^0.0.6",
     "simple-youtube-api": "^5.0.0",
-    "ytdl-core": "^0.18.4"
+    "ytdl-core": "^0.18.4",
+    "heroku-cli-util": "6.0.13",
+    "heroku-run": "3.2.14"
   },
   "engines": {
     "node": "8.9.1"
